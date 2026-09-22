@@ -1,0 +1,257 @@
+[08:13:22] You
+[08:13:32] You
+[08:13:43] You
+[08:13:53] You
+[08:14:13] Is the screen visible yes, okay, just wait for a minute.
+[08:14:24] minute and then we will start.
+[08:15:17] ᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠ�
+[08:15:23] Thank you.
+[08:15:33] You
+[08:15:52] Okay, make sure that you take down all the terms that we are going to solve here.
+[08:16:02] This part will be there for your tip is to and let's not miss any of the concepts that I'm going to cover it till 10 o'clock. Okay, so we are starting with simplification of
+[08:16:13] I think I had roughly introduced you all to the three types of simplification that we are going to carry out for CFG in one of the last lecture.
+[08:16:23] So I'll quickly write down those three methods and we'll be seeing numericals on this three types first so first one is
+[08:16:33] elimination of useless productions. Second one was elimination of
+[08:16:44] unit productions and third is elimination of epsilon productions. So these are the three things that we are going to carry out.
+[08:16:52] and we are going to simplify our CRG with the help of this tree. First one, we are going to start with elimination of useless production. Let me know if you are going to note it down then I'll go back.
+[08:17:08] अद़वास मैपरहल ठेलेखटिन करेटिव औन जाएच्टिन दिजाएच्टिन ज्याः चाटब लगका अगा.
+[08:17:23] not generating, not generating productions and Kusra has not reachable, okay.
+[08:17:33] So I'll quickly take one simple example how these two exactly look like. So we know how a CFG is represented. We are going to write down the rules.
+[08:17:44] going to have variables and terminals involved in these rules. So if I say as is a production which is or as is a variable which is generating.
+[08:17:52] आप प्रड़क्छन लेज़ से आभी
+[08:18:08] अवो आभाट ता तरीवेगछ चब अब बलीर मुं। थिज़नी कि नोज जऑन रिकिं क्या है कैं आशाव। अद रिज़िवल क्या है विचार द़ सब के टेग्रिज़ो विचार द़ सब के टेग्रिजो
+[08:18:13] production. If you check, there are in all five variables involved. So, my second rule, it is generating capital C or capital C.
+[08:18:23] So in all if you check total number of variables involved over here are 5 and there is only one thing.
+[08:18:42] मेरे अंदर तो call प्रिज़न्ते, I am generating AB or I am calling function AB. तो जब A के पास call चला जाएगा, it will check that A is a variable.
+[08:18:56] ज़ेरे बल थो उश्प्रक्या उब उचिक्छी रूल्गे पस जैसे वो वो खिछी उचिक्छी बलास आजाएका एक त्रे ज़ाएक एक जगाएक पे उचिक्छी तम्स्मेझ वी प्रिज़।
+[08:19:08] अर्चल at government that is C or D but it realises C is a function again अर्चल रेटर और तम किनाण monetary yuan . अर्चलन इंट ब � Skype inflation is Under聖्य कि सम्या क्स्या क्श्या कि क्श्या क्यश्याज़ था J is under the Eighth
+[08:19:18] �なく वो रही है, अर्हें लूल ग़व वार्जात था आगा और वो तनी खरम है. छ़ी यार वो वो ग़ावार, ग़ा उप इस आप ग़ा वो ग़ावार लिग.
+[08:19:22] and D. This will be called as, in a case it will be called as they are not reaching
+[08:19:42] खुआपिद्र, रब खो सबंदतन, लब भवाई सिजेबटा, लब खोग फवर दे, अगर नहीं, आप पहनोग पहने अगर अगर दे, अगर दे ठास, वरयट lean to the path, पना में �喜क land Mars वृएँ।
+[08:19:50] आप आब वी रहाता, ख़ाय को आप आभ आब ञचाए अगए तहाँ आपनी ख़ाई तसे तो आप आप लगा एक बने तेशनांगर नहींद है
+[08:19:58] ईप कागuchi बन के लिएक आपनifs लिएक खबा कगत कर्ईबद़silf तो सफ्विकय पूर में पत्घशको अज़श hormone आमस सबन जिएक हो पहने लेो्र वैँत छे साथ room ्च tunes ऐ 무썰 लिएक सबना आपन सबना यी बैजन कागई़ बैं लियाक कागँ ऎरजा कारी का listeners।
+[08:20:18] वहां भी जोनके से रब वहां के रब वहां बताव जोगे बहूँ आई बूँग podstawी आएगा भी लहां बब़गा आएगा और वहां लीमी जोगे रब यहां जोगे वो लगता प ROM, भी बािर्य लात और गोची कलादज देफ़ाद झांगा जो ये एक लिए जेगन्पिल निची दीागे एग वाहाप ये एक और जेण़रेटिंग ने टीागा एक नाँंगा को समझादद जो तो पर अगलें समझाददेदिब करे लिए लिए थागा है! अच्टाःका ती वीगे वो आजinyl
+[08:20:20] C and D are not reachable. Okay, so this is what will happen when you are going to eliminate useless production. Okay, so let's start with the first example.
+[08:20:22] For example, please note it down along with me, question liquor.
+[08:20:33] Thank you.
+[08:20:48] जीआचा के पере संपला हो रह मोगो चाएब में अज़े अज़्ें.
+[08:20:58] inned. Okay, so if you observe these 2 rules again just like previous example. Total variable is around here.
+[08:21:03] There are three variables involved, listen please answer in between because one and half hour lecture.
+[08:21:18] so, I am going to cover a good number, to count the content. so, there are 3 variables involved over here. Now, if you check as the call goes to AB,
+[08:21:28] येँ खातो तो रोल प्रसेज़न था जो जो परार, येँ खातो है, येँ खातो तोत परनेडिर, अप या खातो तो आगग, येँ फुटन के लगेग, शामानात हँर गर खातो के देगा पर अप उमा प्रिएगी में तोpole, फ़रीगी बेदुई खातो दर प्रेदीन.
+[08:21:32] right there are two terminals given in this numerical 0 comma 1 so a generating thing but a height is not an independent production term the production
+[08:21:48] तहान इन वैरेबस कून के्टनेडिड. आज के बहाए एक दी, आज के और और बाइ बी, आज भी हैं ये खॉल लेईपल या एक ज्चियछ, वी का रूल नहीं हैं. से छीक दिडर ओल नहीं हैं,
+[08:21:57] ेट्टरा हम में आगला Marcel F जेन्रेत奶通 आदा गदा मदहसा五s
+[08:22:05] अपने नहीं है, मतले भी अपने कामते है नहीं पुकोस यट अज आद फिंट तो भी सबस्टूटर तक जगाए उसको पाल करने के बाद भी, उसके पास सबसुटूटर तक नहीं के लिए कुज है मीं रहीं
+[08:22:19] वौर बूब चब लगई ञार्ठ़ा ऊगा बी़, बीग और अखेले खो नहींगे लाग बिये दीश वो चानक्याटि नेटेड वि शुआजब़. आलीमेलशन हो गा, पुरा तॉम तॉम बूब़िशों को तौम चानश्ःएं क्याईगांगा.
+[08:22:29] आप मगर सग से अ Creek असम्स हो अँर मगर सरतीनो। से ती निंएर सोभसदबग fica कि दिः स� duty से वो निै खेटैं tema। आप � Bock पयरने मीنا तेर ठीं;; लेलो ken कि आपस रहा exhausting आप सकाता कि ड़िएक से निया सब छाए हानडाने नेभी है लोएuko
+[08:22:38] तुब अज्वाँा वेछदिता वो रदगे लुगाख़ा।
+[08:22:54] production can use in this case your A becomes not reachable. So you are going to get a read
+[08:23:02] going to eliminate even a gives one and so your final cfg after getting rid of useless productions will look like just as gives zero
+[08:23:12] तुट समजा अलो आप
+[08:23:23] Yeah, please note it down so I can move towards sort of complex numericals.
+[08:23:33] Just let me know once done, huh?
+[08:23:43] लास्ट वाड एक्शम्पल में सी अर्दी नाद जेनेरिटिग होगा ना एक मिनेटा
+[08:23:54] Should I go to previous page? Yes, wait a minute. Yes, yes. Yes, yes. Yes, sorry sir.
+[08:24:02] C and D are originating right right.
+[08:24:14] Samtra. What happened, numerical? Yes.
+[08:24:22] 어구
+[08:24:32] Take down the question along with me, hi everyone. I believe all.
+[08:24:48] अरे लियानब्रे मदाा, तरूी प्चल still & turn तरूी प्� hammer
+[08:24:52] You
+[08:25:13] Okay, so on similar lines see this is the way you are going to write it down in exam first Note down all the
+[08:25:23] variables that are present in this given grammar rule and not done all the terminals
+[08:25:33] The given grammar we are going to consider it as G and the modified one after eliminating useless production we are going to call it as G dash. Now we are going to call it as G dash.
+[08:25:42] if you observe these three rules okay first of all we will check whether they are reachable or not after that we will see if they are generating or not okay so as
+[08:26:02] But now if you go and check for not generating part, okay, we'll go and check individual rules now.
+[08:26:13] तुम लोग एक होगे, तु आसकी रूल में भी हाप तुम्डल तुम्डल प्रशेंट। तु at any given point of time, this can be substituted in place of this first term ka
+[08:26:28] as variable as and it in stop it become a generating part because the terminal should be on the point but when it comes to the third
+[08:26:37] तर्म बी आभी भाला तो यहां पे लिए है दपिनधन्स सारं लेएबल आप आप एक आता तो जैसी जे तर्मिनल भी के बात आध वेड़े लेएड होगा जे लेएड़्िस सारंग चेक उस्वत मैं
+[08:26:44] कुत के रूल के आने के बाद वो देखीगा कि वो कुत एक जन्रेटिंग वेर्यवल है या नहीं रहीं। से इपिर चेक्स परस्टम परस्टम इटिस भी पोलड़वाई आई
+[08:26:58] एक से और की सार तो तitti त saúde रहीं मूझा कर� finally this terminal C is terminal C can be put up in place of this a ऐसनगर से प्रचय के आसकोच है।
+[08:27:07] अगिन इखाद्याया जीवाद्याईगाधा हूँ आप चाहते है। अगिन इखाईगाधा है।
+[08:27:19] ज़़ाठी असी भी प्च्चर में हागा भी को जाक्धे देखना भेडर भो जं़द्रेट्झेंग है आप लेएा एए नेए एह भी नग्ठाद्छाटा एभ वी के दो नो तो हो तो सगुप यहाखाग नहीं, तो भी तो Harshाते पादेगा बेदर बो जन्रेंने केगी आँद
+[08:27:29] , ,, , , , , , , , ,, .
+[08:27:39] ओ़़ोग से बाचा है Kenton. आपकी लेगी को और से नासे लेंगा. बाचा बिएगी मिन लेगी जब कहो ग़ा. वीगे जब आप के कोत, बिएगी विगे धी। जब आप बीगे जब काँ. इसि कि स्वाई जब स्वाई ऄजाध़ार यार लनार हूँँँऊ.
+[08:27:53] ये ज़़ा पी हैं भी तजातंचा ज़ा lime एक दिएंज़ा पहाँ मारक लगां सिम्राद करुप थादूपा खूए से इनी फीजेब़ा करुप दींगे करुप फेर दें वी jab तजातंचाली ये तजातंचाली ये ज़ातंचाणा तादूप़दूपा खूए भी इंदागे है इस भी लेजर दे रीकरेछनी डाएट धर् assassin म सब धर्रcave तही Abb वेकाऔमाह है आए वोकल म рукनाफाल मरगजन शली Hanım स하죠, जब Crash कि अ़ी होचा ह PJ शव, इसा bearing नीसे कर इंथ
+[08:28:01] where it can stop entering into a loop, एлосьा जन्रीर्तीं होणे के दे ना उली, it should have everything in terms of terminal, एक बर्टिक् Californ on that particular moment, टर्मिनल के पाम मेरे पलेसम होगा।
+[08:28:12] as a not generating symbol. It will be called as not generating. So since we are going to say that B is not generating.
+[08:28:26] और बी कोईलमिनिट करोगे भीदेण दो हैं तो लगा तर लीग याईलमिनिट होगाएका तो बी ज़ाह एकज़िसट कर रहे हैं तो वहांसे
+[08:28:33] तो लोड रिचे बन होज़ाएगा तो लोड श्वलिबे लिमिलेटेद तो लोड लिए और ग्रामो लुक लाइ तो जो जो जो जो है तो जो जो जो है
+[08:28:48] विए बि, बि ही एलिमनेट होँ रहा है खुर्तिनेट किस बि पालविर्बौल आग, उसा आपा बिए अपी आलिमनेट दुए लाए करोस डाल रहा है.
+[08:28:53] आपको कुछ भी नहीं लिखना है, मेसे बतारे कि वो पोजिशन पे ख्रोस आगया, it will be blank. तें एक रूल आगया, एक रूल में आप भी आ और आभी.
+[08:29:08] तो आब तो निकल चयाए का जेकि भीखरुली हडतर हैं तो इते ले लागै थे खेता गेट किते खेता ब्टाइए
+[08:29:13] yes note it down its for everyone i know i can represent it to respond correct please please
+[08:29:23] do take down these nodes.
+[08:29:39] අපි අපි කිහ තා දෙහ දීවය දැයින්න කා පාරදුක්කය නැතාපින්න කරා අපින්නන්න නැමු කිරාන්න මේණට ගතු තෙථානර්න නපි මෙතු, දහි තිරන නෙතානන කරන්න් මේ
+[08:29:43] आरु को यहा तक लिखु वेबखात।
+[08:30:03] धिकरा बरद लगो और और पुछा थवाज़ ब कुछ ज़ साहत बगर ड़ोग कि घब राए ग़ा. ज़ेश रेख में तो यहां तक ञो जाएग प्डोगे कनतिल कर तो डर यहां न. तर प्रना न प्रना दो डर प्रज़ कर बादेगे कनधी लेका.
+[08:30:05] Yes, okay now as you have rightly identified if you observe the updated rules.
+[08:30:19] क्त tim-его that i have written after eliminating B, एक अछ येर्मा को delicious नहीं कमतपी मुंगर और खेल दूैक।
+[08:30:23] So in this case A will be eliminated but under what category A becomes not reachable.
+[08:30:33] So we are going to eliminate a as well and our updated grammar we are going to represent it by notation g dash it will be just.
+[08:30:44] as generating ASB or A. This will be your final answer.
+[08:30:57] ᵗᵕᵍ ᶦᵘ on ᵇ ḉ ᵒᶜᶜ ᶶᵋ ᶦ ᶦ ᵖᵕ Felix
+[08:31:04] 고개야?
+[08:31:12] Okay, one last example on useless production termination, please you all do it, I will get the final answer.
+[08:31:22] Thank you.
+[08:31:33] You
+[08:32:02] Yes, ma'am. Thank you.
+[08:32:12] For this example, put note down all the variables and terminals.
+[08:32:22] You
+[08:32:33] I will tell you an easiest way how to do.
+[08:32:49] जो वी बे़ी बोस ताना वोंगे रहे से थे, अरे फर्डक्षन तम्भे बाहले देखोग दीखोग की टम्मेनल पाजगंट थे क्या, जिसी की आप यहाप खीग से लिए की जे आप यह यह एज न की एज वाख्ट, न तुमिँद सwalker इस आप पुरा कहाँती,
+[08:32:58] भड़्य का आपकी ड़र ग़ा तुरी बने जेद नब प्र में तो जगा, नहींट निक गर चाँ, धाँ देखानाइ घरमनेखां, फीते ग़ागा, नहीं करतागा, जब उरगा, आप दर दागा, प्रशेप ना ख़ागा, आप प्र दोजा पादोगा, इंचा लुँग, इं�
+[08:33:03] जर्दिल्टी, अख्जेमा है किने वो चेखकर ना पड़ेगा
+[08:33:13] Look, cloud computing can be complex, but don't worry, this is why we're here.
+[08:33:23] Our curriculum provides analogies, examples, and use cases that will help you better understand these concepts. We'll cover all the-
+[08:33:34] essential information you need to be comfortable discussing AWS. Additionally, we'll throw in some AWS service demos to show you
+[08:33:42] how things work in action. This layered approach to learning will really reinforce concepts. Oh, and we promise to keep it simple.
+[08:33:53] AWS offers a massive range of services for every business. AWS is the world's most comprehensive and broadly adopted cloud, and millions of customers use AWS to meet
+[08:34:03] more agile, lower costs, and innovate faster. Whether you're looking for compute power, generative AI, databases, storage, content delivery, or
+[08:34:13] For specialized services for some other functionality, AWS has the services you need to help you build sophisticated applications for your business. That is a massive.
+[08:34:24] range of services and I wish we had time to cover them all, but we did promise to keep it simple. So let's take this conversation with a fundamental concept of computing.
+[08:34:32] client-server model. And to get things percolating in your brain, we are going to brew up a coffee shop analogy. This coffee shop is
+[08:34:43] It's going to act as a real-world metaphor to show you the different parts of the cloud computing model. And the analogy will help you understand
+[08:34:53] how AWS can change the way your IT operates. First, let's think about the coffee shop and how it can represent the client server model.
+[08:35:03] Let's have Morgan be the server of the barista and I'll be the client or the customer. I'm going to make a request, in this case it's for coffee.
+[08:35:12] in the computing world the request could be for anything it could be rain pattern analysis in south africa or it could be the latest x-rays of your knee or videos of kittens what
+[08:35:22] Whatever the business needs is where the request is. Actually, we will reply to your answer. Basically, a customer makes a request for the answer. With permissions, the server responds to that request. All I want is...
+[08:35:33] Thank you, Captain Antebellus. Morgan represents the server part of the client's server model. In AWS, you would be a virtual server. Also, from a cloud computing, our technical point of view...
+[08:35:43] answer. The coffee shop trends. Yes. If anyone didn't get I'll quickly tell you how other variables are getting eliminated. If you all
+[08:35:56] जद सु है तो जन्रेतिंक तो है एकन जद को कोई भी कोई भी खाल नहीं कर रहें नहीं आप दे प्रिगेस वेरिबलस आप खालिएं जद वेरिबलस तो एक जद बिकर्मस जद पहलें
+[08:36:08] not reach able because of which it will be deleted if the rule is completely deleted like wise A calls X
+[08:36:18] यह की अब जो झुर से टरन ईल परूगते pouring is jic voice call विnesota voice call । शाचम की तर हहाती साच कर लागats and marginal word । विसारिक के रहा कके साच्टें करूटो todavía बदुकारी रहान Through Bark फम्म Niye ठीक हया recipes आस्क आसही टासाच कहने ऺामटी कि यह कर साच्टें करगे हैटा हाँ के repository haren
+[08:36:22] itself in that case they both become what they are not generating because both of the rules x and y will be eliminated and the
+[08:36:38] आद उन्धर्ये, then in the Nourishing category, these terms involved, ये तरम तशकाख में जहाए तरम तशकाख आप खासदी। वो एडिलित ज़ाएका। एगा ख़ाए में ख़ाएक या ख़ाँ़ित anybody will be deleted.
+[08:36:43] one production term, A gives X, Y, Z. I think three examples are sufficient. We are pretty much good to go ahead with the next slide.
+[08:36:53] second one is elimination of unit productions. So first let's try to understand what do we mean by unit production okay so if I say
+[08:37:04] S is generating a and a is generating terminal a so some kind of transitive relation that we are going to put on over here or variable s is falling.
+[08:37:12] variable a and variable a is thing that I am generating a terminal a right then why there is a need to carry out this function call which are heavy to execute.
+[08:37:22] Instead, can't we replace this by just saying the s is generating terminal a, right or not? But we were able to do this only because s was able to generate terminal a, right or not?
+[08:37:33] involved in generating only a unit entity over here, say variable A. It was not something like S is generating A.
+[08:37:43] A is generating A, B is generating B and then you are going to replace the whole term. No, it is only possible when you have just a single.
+[08:37:53] available present in RHS so always remember as gives A will be called as unit production but not as gives term
+[08:38:09] ञाओ इस्ट्रन हो आँ ठीक याले गो � impancy ये व्त्वेल लित सा narration पीड ताँया क्या है कातारे । थो थम शाक्या क स chroma कर वरे टाग कों कों कहू क्ल pret एक बाज़्स क्या सा अप स 어쨌든 क्या झीा क runter अचिक chicken क्य क्य अब सनी णेंना कnarrator
+[08:38:14] उनेट मतलग एक एंटिटी और वो जो एक एंटिटी है, it will be always in the form of a variable, a single variable, that's it, इतना याद रखना है.
+[08:38:22] So what are we going to do in any given example? We are just going to check if there are any single standalone variables present in a particular production rule.
+[08:38:32] just going to replace them by their own production terms so that that indirect or multiple functions also can be eliminated or can be reduced.
+[08:38:43] Okay, so let's see the first example. I'm going to start with a very simple one. And likewise, I'll be taking three examples so it's going to be a little bit complex.
+[08:38:54] Thank you.
+[08:39:14] So, you can clearly observe over here, don't write the question, wait up.
+[08:39:22] देरार इन ओल पले बेरेबल्स का लिज़्ाूं कर लिए लिए
+[08:39:38] आज Fuck आप से पहले है long A
+[08:39:42] We always start with the start variable and it will keep on calling all the variables in a line until we are going to reach to the .
+[08:39:53] bottom or the last one. So if you check over here as it's dependent upon AB, A is dependent upon terminal AB is dependent upon variable C, variable C is dependent upon D, D is dependent upon D.
+[08:40:03] end up on E and then E is saying that I am generating terminal A okay so when after you are done reading all the rules and you reach to the last part.
+[08:40:13] Substitution is going to happen in Portama. I, the user, made a request to Morden for the server. Morden validated that the request was legitimate. In this case, did I give her money? Sit down.
+[08:40:24] we realize that he is getting called by D. Previously he didn't call D. That's why we called him on EQ. But he is getting just a single terminal A.
+[08:40:32] In this case, this D gives E is nothing but unit production, which we are going to. And so we are going to say that D is just
+[08:40:43] beautifully compressed, but again, we're going to start with the basic. We are going to say that they generate eight, but similarly the same is observed when we move one step by the other.
+[08:40:53] which is again a unit production which will be eliminated and hence we are going to say that.
+[08:41:07] C is generating A. Okay. इसे बाज़ जब हम लोग और एक प्रीवेस रूल रेट करते हैं भी रेलाएज. ती अगेन B is generating C is generating C is generating A is generating A.
+[08:41:18] अगर है, वो एक बाल रहाँ प WRONG औगर यो लेईक, अगर आप में एक रहाँ तुया, यो तुर तुया, नाप लौगर और आप पुर्में
+[08:41:23] a lot more sense. You've already tackled your first cloud computing concept. So now let's continue with a key concept of AWS and that is you only.
+[08:41:33] pay for what you use. Think about this principle as it applies to staffing a coffee shop. Employees are only paid for the hours they work in the...
+[08:41:44] Shop so if say Morgan and I are off the clock. Well, then we don't get paid because we didn't work any hours Moreover the store
+[08:41:52] decides how many baristas they need for any given day of the week. Busy days require more employees and slower days require fewer.
+[08:42:02] Let's take an example. Say the coffee shop is releasing a brand-new drink called Rudy's rhubarb refresher trademark the
+[08:42:13] shop anticipates increased demand due to the beverage being very tasty so they staff the shop with 10 baristas all day long
+[08:42:23] Although this works with a sudden surge of customers, it isn't great for slower periods during the day. Some baristas could be idle and it would be
+[08:42:34] It's hard to justify paying them to just be there in case they are needed. The monetary cost just doesn't make good financial sense.
+[08:42:42] That is exactly what happens in an on-premises data center where you can't just snap your fingers and triple your capacity. At AWS, you don't prepay for any...
+[08:42:52] and you don't have to worry about capacity constraints. When you need more resources, you just provision them right there and there. How cool is that?
+[08:43:03] Then when you don't need those resources anymore, you can deprovision them just
+[08:43:19] अखोंकी कर लग है जो कर तो भीका, लोत मेंग़ा है, बी कश्थ कर वराब शुछ करते है गर परश्टर वर्भीं वुल के आई अखुर आखुर यहँई.
+[08:43:32] समच्के आम्म येस, तो येस केस में आप वो सरे एंबीके तर्मिज़स को भी लेके जाके एस में खुट अप कर सकती हूँ
+[08:43:43] oku oku şöyle bi boba hırdı oku oku oku oku oku
+[08:43:53] Next example? Yes. Okay.
+[08:44:04] You
+[08:44:33] You
+[08:44:43] इसको सुल्व करना स्ताक्मत करुए।
+[08:44:53] You
+[08:45:08] रेदे अक्के लेट मिस टाटाटा गान तो अगर ल्हे हूंगध तो प्ली व्image टाटा उगर लिखर हूंगे तो प्ली ष्वल्टा
+[08:45:19] यहांगे वर लिए यहांगे रीए defeating अर्च्यट्फ्त्सा आप दो़ाने भोाग़िए से नलाग सांगा रहका Streem सभ आते यहां ना हरेवी की आदेखयागांगे न है नहीं डरभ light ज� digest वी टाँ। उर्ँश रहात घरम आप देख Job
+[08:45:28] यह तर्मेद के आप़ध की यह का और थाज़ा तरबाद आप book, थ्याधा पर थादा तरबाध की तरबाध के तरबाध की का पी।
+[08:45:39] आप उब यु़क चीदा एक रोल मेझुभी प्रुध्धे को उप्धाप के एके जकर्ब प्तिके लिक्टेगे स मेईग है आन पिके चगाप एक जो प्रुधेगो बी जिक्डिके जगाप पिलाकि रिख्तेंगेंगेि छो एईन क्य और पोक तोम्स बहुत वाग वाग
+[08:45:48] अरिताहास आजान्बाद हैं अजान्बाद पर पर अजान्बाद िास्ध teachings अस करुत बराबर अ। अग results मिक्र स्वार्ट खीर कोन साढ जो जांगे के धेधिता ठादर ओर उढोने विश्गाश करनबाद हुएके शाथंगे यह आदान्बाद को nihaa
+[08:45:56] प्रवाँ च्टाए पि ये जो तोंट्ड़ाँ ज़दाँ पि ये ज़दाँ पि ये ये ज़दाँ पि ये ज़दाँ पि ये ज़दाँ पि ये ज़दाँ पि ये थो तो तो यहापि 1, 2, 3, 4, these four will go and get added in जो लो कि ज़दा पि बरवेगर.
+[08:46:08] बस्तर्रिविए सेंटल् या के हम लोगो लेए त्परीयल्ग के औत डी में धलिते गब एकए सोगए थे गब प्रीवीए ऐंग़ेर है तर्मिनल ढ़ूँँ या दी का अगर अगर के थी, अगर एक़ा त्फरिया के रद़्े का तिटीए और अरोग़ा, जालगीक पेच्रिय
+[08:46:12] यहापे क्या हम लोग एंगी के रुल को लिएमनेट गर पाएंगी क्या?
+[08:46:23] after putting the terms in S, okay let me write it down how it will look like. तो तुम लोग खोड़ा रिलेट कर बाओ.
+[08:46:39] तब थब गट एक उँर प्रईके हो गया ने you can answer my questions so these four terms which have written as it is दिट Could be the unit involved य epoaro youtuber not in early दो वि स्मेठ वे запис
+[08:46:44] when I come on A, I will replace it by A, A or terminal A, B, B or terminal B. ये ये एोर भी के रिपलस्मेंत हो गया. My question is,
+[08:46:52] is after substituting capital A and capital B in variable S, am I going to delete rules of A and B? Happy Nietzsche!
+[08:47:02] आन भी करुल रहेगा आया नहीं रहेगा
+[08:47:13] कुईशिन समझ में आरे तुम लोग।
+[08:47:23] अब भी तक जो में आइस करो लिका वो समजा तुम लोग को
+[08:47:39] अब आप आड़़ ना ज़ॉर कर या ज़ी आड़़ ना ज़ी ना ज़ी और आप नगोंग़ नाज़़ नाज़ा नताना आवनाज़ा नहीं था, वैज़्ाई में ता च्प कोती तब वाशी को सद्तटों फरत्मँ आप आप इस था, पर कि शोगत टीर क्या वो सब आप आ�
+[08:47:58] ग гру� everything multiple ता & ऊना wom ता
+[08:48:08] सो अई इस इन्वोल्ट इन जॉन्रेटिन मल्टीः पल अई पुस्खो तो हम लोग रद नीसक देछ दिलिखे स्था मिक लेंगाग हो देई थे या बोल्टे या जॉन्रेटिन aftering is involved with respect to variable
+[08:48:12] अगर इसको हटाई देंगे तो वो कभी मिनिंग रिची नहीं होपाएगा रहें तो वी के नोग वेरेवर आप पूँँशन कोल तु इजसल पेस इन वोईज
+[08:48:28] अद्यद एकण Judah अद από कुस तराइively Harsh अगर � Dema
+[08:48:35] सुड़े भी हैं लें अगर यहां पे आँ दी नहीं हो दें अगर खोई तरम्मिनल हो ता दें आँ दी अगर खोई तरम्मिनल हो ता
+[08:48:44] अगर एका रूल कुछ एसा हैं
+[08:48:52] something like this okay in this case elimination of a and b is easily possible because it terminals
+[08:49:03] if substituted they are not going to call anyone but when there is a function for involved over here we cannot delete that particular variable which was acting as a.
+[08:49:27] अगर आज ते ही सीदा आगर जनरत हो पार है बी अगर जनरत हो पार है then there is no need to go on variable A and then do the substitution, right
+[08:49:33] Certain things can be straight away managed by variable as itself. We don't have to go and depend upon a function called which is generated because of unit production AN.
+[08:49:44] D. Getting it. Yes.
+[08:49:52] Okay, note it down.
+[08:50:14] You
+[08:50:22] दन प्रोग्या
+[08:50:33] Okay, let's move make example or there you can I'm not solving it right now. And you can solve in some time.
+[08:50:46] जब में ब्रेख दितूं
+[08:50:52] taking on unit production.
+[08:51:03] If you just note down the question and then we are moving ahead to the next step.
+[08:51:23] 고기야.
+[08:51:53] As the title is saying, we are going to get rid of all epsilon production. So, whatever we see in the grammar, we are going to remove that epsilon production term. But it is not.
+[08:52:13] बादोग लिए बादोग़ा जादी स्वनागी और वो थगी हैश्वाल है बदे या आप सदाप़ा थब प्य मैं थो लबसांगी जादीग. आप सदाप़ा लिए दीखाथी में बख़ों की आप नीज़ार देखा में।
+[08:52:15] some additional production terms might come into picture. Let's check this out with a very simple example to understand exactly yaha pe kya involved.
+[08:52:22] Look at this gamma, A is generating excellent production, right?
+[08:52:42] आज़र ख़े अड़र और ग़ाँ। आप्छारूल आप्ख़ो़ आप्चकरूल आपर एक येyniye आप्च्च्च्च्चिता वो तोटिया той बाँ य downtime
+[08:52:50] या तो ओर भी या तो सद गा क्या सद और फुँर भी पत्ररे का. एकि नहीं इस और बिदिलन कि खॉड़ाह सकतेंगा. आप बिदिलन के खॉड़ाह मैं या पूर या आद्ताखाूए के कि या वी कि पूट्ब रहाँप.
+[08:52:58] ऐमना सब खार में ज़ावे बाच शब वाव्गाया ज़ावे शो भी लगे दिनोत तान च़ावे लगे तूःःगी पिस्थ बैख़े अफर शब ग़म्नें जोठाते ना में तो हो निंझाऱद या यर फ़निए है।
+[08:53:03] समच्रे तुम लोग मेंने क्या लिखा है
+[08:53:18] आपिस्ची वो सब सब मार्से खृता देति हुँ.. आपिस्चिन आपिस्चिन गरामर स्ब चीझ यह सायगर रेदए क्यया देखाडा वरिवान।
+[08:53:33] असी ज़न्रेतें जेरु मुर्ँ को लोग करने लिए हम भी अवयाग से फाँ अगनी नहीं जिरों. इस मे खेषिज्ग़ागाि में टिऍब, आलीए और खेडिन शेटन किसा लोग आद, जेगान के रही हैं। छब चब और तो च्राएक।
+[08:53:45] all those new terms that are coming into picture, यह तया इंं जागा अपका ग्रामर G- will look something like this. S is generating
+[08:53:51] 0 8 which will remain as it is अगर मैं इक जगाप थे अपसलं दाल दिया अगर मैं इक इक जगाप थे अपसलं दाल दिया दिया दिया अदिश्च्नल तर्मिने लोगी
+[08:53:54] into picture. This one as is generating 0 right and since a is already getting a call we will keep as it is a gives 1. We will keep it as it is.
+[08:54:02] So, ये वला पार्ट भी ये खॉल से जन्रेक्त हो जाएगा. Getting it?
+[08:54:13] समजके हम लोग लिए क्या क्या एक दोंसे बेदे सिंपल अग्स्मपल नेक्स आगे
+[08:54:29] अर पटाए असी अपली करति जाना हे, you have to keep a track, its not the simply elimination of one epsilon term. Elimination of one epsilon term might bring some additional term.
+[08:54:44] भी ताब ख़्चन तोम थम फिक्चाम ख़दवो कछ दब ख़्चम के यहाँ प्लेपन हो सकते है यहां भी ख़चना और ख़िच रिच यहाँ सकते है जो चालता में तेरची भी ती गिल हैं, वि ड़ीर नागवे गोजम उरचे Money तुरह करने दें गारचि layer । ज़ाँग
+[08:54:52] आँदिन, अगर उगर दावने इप्चलाद ज़ाison, इप्छादबादलाग दानावाद, तो आदीएगा तोगा ज़ादबादलाग पर पर परभादाद़ाद हुरीशा, च्रादबाद़ादाद.
+[08:54:54] You
+[08:55:02] I have seven is involving two rules as many as in A and B mean one day so need to be very careful.
+[08:55:13] Thank you.
+[08:55:27] यह प्रादणता, भाँ बलका। यह बर्दणा, यह भाब भाब बलुड़ । भाब, यह अप ााब बलुड़। ऴाब, यह प्रीद, ताख तेभ्रूंएं ज़। वरख, यह यह चाऱें तो च्छलाझेंग।
+[08:55:38] थुन्या! eating ट्ट्माँटाने के विए तो अगे अच्छा, हँझा! तो उगे लग ग़ा लगा गर! तुछी! थूएँ! उगे उगेएँ! तुछी!
+[08:55:43] यह पहले एग दीखो करके वैसे भी कर सकते हैं अं सर्टिंग भी एख एख तेर तेंछन वोट आम दोएंग रहीं
+[08:56:04] First term of S is untouched. यहापे कुस बीन्वोल नीए है, यह तो और गड्दी हैं इम। अणीएद, उगा वो आप ड़ाग़, आप आप इता आपशा, प्रढ़स्द, आप आप आप पकशाचाउ, वैंग है था, चाचा अछ़,ちゃん का वोगुढे शीथा में, अगी मुपना अवदुरनादेष्टिए दिया जदा वे आप या राम पचाचाट, पिरिएश्ढाप य
+[08:56:12] तु मुलते पूँछ़ कर्टा पुछ बासी होता. उरहासा बीगे रहासावी कर्टा थोन बचष्ट्र्ध मत्रए ज़ि सब तुम पेश्द कर्टा तुम पेश्ट्ख्चा कर्टा कर्टा पूछश्ट्चा वी छब नाविसके रहासावी ahora is Thodin, भी के पस अप्साले दे मत्रब ये भी के ज़ुए। ये बी के ज़ुए।
+[08:56:20] भ puntos of A po up अगर मैं ये भीके च़ा कचा लए आप्ससलन पुटप ग़ प्भी तो आगर मैं ये भीके च़ाए ज़ाए प्प्सलन कुप अप टी है मिलतक उनले तरमिंनल आप भी प्रम्मेंनें क्रुमिक है बराबर वो मैं यह णवबग
+[08:56:23] अगे जा के बी से अप्सलन को हम को ख़ाना है। अगर यह अप प्रदियस लगरा है दिन विकें तो अदवे पहले जा के बी से अप्सलन ख़ाना है।
+[08:56:38] तुई आखाटा के थे अफ़द बन था फलतं, तुईटाशा्नन, प्रे प्रे लस्फ़े �甘षे से जोच्या। अखे जो उआश्टोन का ये मुझकें पहनोना गी बाहाँ रड्द्ठां के पिर एख अगता के तागिटिंग जिस लाग
+[08:56:48] last term of S Dab अबी ध्यां दो यें प्रद आ ब, देरी मेरिबल आ रग दी तो नो के पास अपसलन इन्वोए़ है तोमलोको तटंब कडंहर के...
+[08:56:58] यापने टाखात, लोगिया मरग भी निय का से बना से आ पिसलूंग है, मेरे थरफ लगा एक अपने चाहलोंी करह जातानां, नहीं नहीं करह अपने टाखाना। उप्रारा चाड़िय वी चुदिया की नेन्डिया की स्मिए बाश़ है,
+[08:57:12] अगर A ने पोड़ा कि मेरे तरफ सेप्सलन आगा लिकिन B पोड़ा कि ने मेरे तरफ सेप्सलन नहीं आगा इं दिस येस
+[08:57:28] यो तरम इळमन होजागाएा या फिर्र में आजेगा नध्यागा नैयागागा धोो एक आख्च बिजचर ने आगा नायागा अगि नागा बाहीं अगे नेपाद कईो गर से एक उदिन में नागा यहागा नागा डायार दे नाखा आगा, और चुर् पररात्र देब प्रपि
+[08:57:33] Just set up the right configuration and it's done automatically and the best part is that when you deprovision the resources, you
+[08:57:43] You stop paying for them immediately, just like you only pay your employees for the hours they are working. You only pay for the AWS resources.
+[08:57:54] you consume. Right? So paying only for what you use is the first AWS specific concept we covered. And it's just one of the many benefits when it comes to run
+[08:58:02] your business on AWS and that's really why we're here so you can understand how AWS is built to help you run your business better. Exactly.
+[08:58:12] You've already learned some foundational concepts about the cloud, and that's just the start. Yep, things are only going to get more interesting, folks.
+[08:58:23] the picture. So if you observe first, it's just a terminal as we dive deeper. Thanks for joining us on this learning journey, future AWS Cloud.
+[08:58:38] मुझा फील रूब वुट्र्म्ंदार, यह अदा जूतवार और विवज्ँता मुझा वूझा, जोया था अद्दों साया आप ब्रनी वुट्ँउए क्या, आप च्डूग, भुट्ग्वार, यह वि क्या थाका, विवों करुफींण ने, अदिद्गार, आप प्रा से, यह �
+[08:58:43] आने वाले हैं. सु इपाई जोस पूट अपस्टलिन इं प्लेस अख भी इप रेजल्ट लिएं तो तर्म आए इपाई पूट अपस्टलिन इं प्लेस अख आए इप रेजल्ट लिएं
+[08:58:54] generate a new term A by B, sorry, A followed by capital B and if I put up epsilon in the case of both A and B, it will generate a term A which I am not going to.
+[08:59:02] तो उसको वापस लिख लिख की जरूरा नहीं है।
+[08:59:17] anka आद़़ of the
+[08:59:26] 小明星大跟班下次再見
+[08:59:32] Yeah, understood man. Okay, please note it down and I'm giving one more example. Because there are many variables involved in that. Please note this.
+[08:59:42] down the solution and I will give the next question.
+[09:00:44] You
+[09:00:52] You
+[09:01:02] You
